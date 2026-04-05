@@ -1,0 +1,14 @@
+{
+  "name": "Mar de Sonhos TV",
+  "short_name": "MS Player",
+  "description": "Player de mídia Mar de Sonhos Sleepwear",
+  "start_url": "../player/index.php",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "any",
+  "icons": [
+    { "src": "../assets/ms-icon-white.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "../assets/ms-icon-white.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
